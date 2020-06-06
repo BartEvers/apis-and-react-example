@@ -6,6 +6,6 @@
   "dependencies": {
     "express": "^4.16.2",
     "pg": "6.0.5",
-    "sequelize": "^4.33.4"
+    "sequelize": "^5.15.1"
   }
 }
